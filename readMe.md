@@ -1,21 +1,8 @@
-# :closed_book: Memories Manager (Full-Stack App)
+Memories Manager (Full-Stack App)
 
 ### Link :link: https://memories-manager.netlify.app/
 
 ### Backend Deployed at: :link: https://memories-manager.herokuapp.com/
-
-## Interface
-
-<img src='./projectImages/home.png/' />
-<img src='./projectImages/details.png/' />
-<img src='./projectImages/signIn.png/' />
-<img src='./projectImages/signUp.png/' />
-
-
-## Mobile Interface
-
-<img src='./projectImages/mobile.png/' />
-<img src='./projectImages/mobile2.png/' />
 
 ## Run Locally
 
