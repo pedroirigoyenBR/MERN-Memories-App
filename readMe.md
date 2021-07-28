@@ -1,7 +1,5 @@
 # :closed_book: Memories Manager (Full-Stack App)
 
-### _Memories Manager Applciation, where Users can add, delete, update and like memories, and View each other's memories !!_
-
 ### Link :link: https://memories-manager.netlify.app/
 
 ### Backend Deployed at: :link: https://memories-manager.herokuapp.com/
